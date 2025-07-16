@@ -1,2 +1,2 @@
 # bootstrap-1
-This i have create with the bootstrap mini project
+This i have create with the bootstrap mini project with fully resposives
